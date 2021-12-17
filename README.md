@@ -1,3 +1,8 @@
+Страница для редактирования списка книг. Страница позволяет создавать, удалять книги и отображать список книг.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
